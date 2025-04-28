@@ -121,9 +121,11 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 </br>
 
 ### New Sample Prediction
-![image](https://github.com/user-attachments/assets/c6faf792-aad1-4e96-90f2-7fd06d37b51f)
+![image](https://github.com/user-attachments/assets/f787af81-7480-4480-a06c-04f1d945b992)
 
-![image](https://github.com/user-attachments/assets/f065cc6f-64d9-43f9-b2d8-dddc95953765)
+
+![image](https://github.com/user-attachments/assets/df4ca0e9-0338-489b-9f5e-2442c03e8760)
+
 
 </br>
 </br>
